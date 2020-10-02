@@ -25,6 +25,7 @@
 <li>Add and Update Posts</li>
 <li>Authentication with Login, Signup and Reset Password</li>
 <li>Authorization and Route Protection</li>
+</ul>
 
 ## Planned Changes
 <ul>
@@ -34,3 +35,4 @@
 <li>Better Markdown Editor</li>
 <li>OAuth and Email Verification</li>
 <li>Uploading and Adding Features</li>
+</ul>
