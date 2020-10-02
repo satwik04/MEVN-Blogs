@@ -1,7 +1,7 @@
 # MEVN BLOGS
 ### A Blogging App created with MEVN stack
-:link: [Working Demo here](https://mevn-blogs.herokuapp.com/)
-
+![Home Page](img/home-page.png)
+![DashBoard](img/dashboard.png)
 
 #### This is the continuation of my MEVN stack project - The Simple Blog App
 :link: You can find the repo [here](https://github.com/devppratik/MEVN-Blog-App)
